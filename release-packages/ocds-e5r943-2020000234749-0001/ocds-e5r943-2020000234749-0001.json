@@ -1,5 +1,5 @@
 {
-    "uri": "https://raw.githubusercontent.com/mp-rj/Impacta/releases-packages/ocds-e5r943-2020-000234749-0001/ocds-e5r943-2020-000234749-0001.json",
+    "uri": "https://raw.githubusercontent.com/mp-rj/Impacta/master/release-packages/ocds-e5r943-2020000234749-0001/ocds-e5r943-2020000234749-0001.json",
     "version": "1.1",
     "extensions": [
         "https://raw.githubusercontent.com/open-contracting-extensions/ocds_process_title_extension/master/extension.json"
