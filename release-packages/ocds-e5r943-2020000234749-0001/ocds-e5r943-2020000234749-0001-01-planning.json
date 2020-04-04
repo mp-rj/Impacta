@@ -1,0 +1,129 @@
+{
+    "uri": "https://raw.githubusercontent.com/mp-rj/Impacta/releases-packages/ocds-e5r943-2020-000234749-0001/ocds-e5r943-2020-000234749-0001-01-planning.json",
+    "version": "1.1",
+    "extensions": [
+        "https://raw.githubusercontent.com/open-contracting-extensions/ocds_process_title_extension/master/extension.json"
+    ],
+    "publishedDate": "2020-04-XXTXX:XX:XX-03:00", 
+    "publisher": {
+        "name": "Ministério Público do Estado do Rio de Janeiro",
+        "name_en": "State Public Prosecutor's Office of Rio de Janeiro",
+        "scheme": "ocds",
+        "uid": "e5r943",
+        "uri": "urn:ocds:e5r943"
+    },
+    "license": "https://opendatacommons.org/licenses/by/1.0/index.html",
+    "publicationPolicy": "https://github.com/mp-rj/Impacta/LEIAME.md#politica-de-publicacao",
+    "publicationPolicy_en": "https://github.com/mp-rj/Impacta/README.md#publication-policy",
+    "releases": [
+        {
+            "ocid": "ocds-e5r943-2020-000234749-0001", 
+            "id": "ocds-e5r943-2020-000234749-0001-01-planning",
+            "title": "Impacta",
+            "description": "Programa de inovação aberta do Ministério Público do Estado do Rio de Janeiro",
+            "description_en": "State Public Prosecutor's Office of Rio de Janeiro open innovation program",
+            "language": "pt",
+            "date": "2020-04-XXTXX:XX:XX-03:00", 
+            "tag": [
+                "planning"
+            ],
+            "initiationType": "tender",
+            "parties": [
+                {
+                    "name": "Ministério Público do Estado do Rio de Janeiro",
+                    "name_en": "State Public Prosecutor's Office of Rio de Janeiro",
+                    "id": "ocds-e5r943",
+                    "identifier": {
+                            "scheme": "ocds",
+                            "id": "e5r943",
+                            "legalName": "Ministério Público do Estado do Rio de Janeiro",
+                            "uri": "urn:ocds:e5r943"
+                    },
+                    "additionalIdentifiers": [
+                        {
+                            "scheme": "BR-CNPJ",
+                            "id": "28305936000140",
+                            "legalName": "Ministério Público do Estado do Rio de Janeiro",
+                            "uri": "urn:cnpj:28.305.936/0001-40"
+                        }
+                    ],
+                    "address": {
+                        "streetAddress": "Rua Marechal Camara, 370",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "20020080",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Laboratório de Inovação do Ministério Público do Estado do Rio de Janeiro (Inova_MPRJ)",
+                        "name_en": "State Public Prosecutor's Office of Rio de Janeiro Innovation Lab (Inova_MPRJ)",
+                        "email": "inova@mprj.mp.br",
+                        "telephone": "+5521995034379",
+                        "url": "https://www.mprj.mp.br/inova/impacta"
+                    },
+                    "roles": [
+                        "buyer", "procuringEntity"
+                    ]
+                }
+            ],
+            "buyer": {
+                "name": "Ministério Público do Estado do Rio de Janeiro",
+                "id": "ocds-e5r943"
+            },
+            "planning": {
+                "rationale": "Operacionalizar o programa Impacta, que tem por objetivo explorar a inteligência coletiva, fomentar e fortalecer uma rede nacional de inovação, e buscar parcerias para a construção e implementação de soluções custo-efetivas para desafios públicos.",
+                "rationale_en": "Operationalize the Impacta program, which aims to explore the collective intelligence, foster and strengthen a national innovation network, and seek partnerships for the construction and implementation of cost-effective solutions to public challenges.",
+                "documents": [
+                    {
+                        "id": "DC0001",
+                        "documentType": "plannedProcurementNotice",
+                        "title": "Minuta do Plano de Contratação",
+                        "title_en": "Contracting Plan Draft",
+                        "description": "Plano de contratação de pessoa jurídica (aceleradora) para gerenciar o programa de inovação aberta do MPRJ ('Impacta'). O documento organiza e descreve as principais diretrizes que irão compor o futuro termo de referência para licitação.",
+                        "description_en": "Plan for contracting a legal entity (accelerator) to manage MPRJ open innovation program ('Impacta'). The document organizes and describes the main guidelines that will compose the future reference term for tender.",
+                        "url": "https://drive.google.com/file/d/1qQPijADRnhI37EY16_HM0QksOasKaMI2",
+                        "datePublished": "2020-03-02T19:10:00-03:00",
+                        "dateModified": "2020-03-02T15:35:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    }
+                ],
+                "milestones": [
+                    {
+                        "id": "MS0001",
+                        "title": "Lançamento do site e da Minuta do Plano de Contratação",
+                        "title_en": "Release of the Contracting Plan Draft",
+                        "type": "preProcurement",
+                        "description": "Lançamento e divulgação do site e da Minuta do Plano de Contratação para comentários públicos",
+                        "description_en": "Release and dissemination of the website and Contracting Plan Draft for public comment",
+                        "dueDate": "2020-02-28T19:30:00-03:00",
+                        "dateMet": "2020-03-03T15:20:00-03:00",
+                        "status": "met"
+                    },
+                    {
+                        "id": "MS0002",
+                        "title": "Comentários públicos da Minuta do Plano de Contratação",
+                        "title_en": "Public comments on the Contracting Plan Draft",
+                        "type": "preProcurement",
+                        "description": "Término do período para comentários públicos da Minuta do Plano de Contratação",
+                        "description_en": "End of the period for public comments on the Contracting Plan Draft",
+                        "dueDate": "2020-03-20T23:59:59-03:00",
+                        "dateMet": "2020-03-20T23:59:59-03:00",
+                        "status": "met"
+                    },
+                    {
+                        "id": "MS0003",
+                        "title": "Videoconferência aberta sobre o Plano de Contratação",
+                        "title_en": "Open video conference on the Contracting Plan",
+                        "type": "preProcurement",
+                        "description": "Videoconferência com possíveis interessados para esclarecer dúvidas sobre a Minuta do Plano de Contratação",
+                        "description_en": "Videoconference with interested parties to clarify doubts about the Contracting Plan Draft",
+                        "dueDate": "2020-03-24T15:00:00-03:00",
+                        "status": "met"
+                    }
+                ]
+            }
+        }
+    ]
+}
