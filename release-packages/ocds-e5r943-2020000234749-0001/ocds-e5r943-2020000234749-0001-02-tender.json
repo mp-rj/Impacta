@@ -13,8 +13,8 @@
         "uri": "urn:ocds:e5r943"
     },
     "license": "https://opendatacommons.org/licenses/by/1.0/index.html",
-    "publicationPolicy": "https://github.com/mp-rj/Impacta/LEIAME.md#politica-de-publicacao",
-    "publicationPolicy_en": "https://github.com/mp-rj/Impacta/README.md#publication-policy",
+    "publicationPolicy": "https://github.com/mp-rj/Impacta/blob/master/LEIAME.md#pol%C3%ADtica-de-publica%C3%A7%C3%A3o",
+    "publicationPolicy_en": "https://github.com/mp-rj/Impacta#publication-policy",
     "releases": [
         {
             "ocid": "ocds-e5r943-2020-000234749-0001", 
