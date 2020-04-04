@@ -4,7 +4,7 @@
     "extensions": [
         "https://raw.githubusercontent.com/open-contracting-extensions/ocds_process_title_extension/master/extension.json"
     ],
-    "publishedDate": "2020-04-XXTXX:XX:XX-03:00", 
+    "publishedDate": "2020-04-04T13:30:00-03:00", 
     "publisher": {
         "name": "Ministério Público do Estado do Rio de Janeiro",
         "name_en": "State Public Prosecutor's Office of Rio de Janeiro",
@@ -23,7 +23,7 @@
             "description": "Programa de inovação aberta do Ministério Público do Estado do Rio de Janeiro",
             "description_en": "State Public Prosecutor's Office of Rio de Janeiro open innovation program",
             "language": "pt",
-            "date": "2020-04-XXTXX:XX:XX-03:00", 
+            "date": "2020-04-04T13:30:00-03:00", 
             "tag": [
                 "tender"
             ],
