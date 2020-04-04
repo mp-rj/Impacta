@@ -1,7 +1,7 @@
 # Impacta
 **Inovação aberta para solucionar desafios do setor público**
 
-*For English, click [here](https://github.com/mp-rj/Impacta/README.md).*
+*For English, click [here](https://github.com/mp-rj/Impacta/blob/master/README.md).*
 
 **Ninguém inova sozinho**. Há um enorme potencial para solucionar desafios complexos de governo quando se abre caminho para a inteligência coletiva. Essa é a promessa da inovação aberta, processo que subverte a lógica tradicional de muitas decisões e compras governamentais. Ao invés de especificar a solução desejada, o órgão público define o desafio e o resultado esperado, garantindo à sociedade - Academia, empresas, startups etc. - a oportunidade de cocriar soluções. Em se tratando de soluções digitais e com novas tecnologias, o potencial da inovação aberta é ainda maior.
 
@@ -10,7 +10,7 @@ O **Impacta** é um projeto experimental de inovação aberta do Laboratório de
 ## O que eu encontro neste repositório?
 A inovação do programa começa em seu passo inicial. Estamos construindo a primeira versão e conduziremos ciclo de inovação aberta inaugural do MPRJ de forma colaborativa e 100% transparente. Buscamos chegar ao nível máximo de conformidade com os padrões de dados de contratos abertos da **[Open Contracting Partnership (OCP)](https://www.open-contracting.org/)** - algo [até então inédito](https://web.archive.org/web/20200404154540/https://www.open-contracting.org/worldwide/) no Brasil.
 
-Neste repositório, você vai encontrar todo o registro de contratações do programa, desde a contratação da aceleradora que irá gerenciar o programa. Todos os arquivos estão em formato JSON e são compatíveis com o [Open Contracting Data Standard (OCDS)](https://standard.open-contracting.org/latest/en/) versão 1.1. Na pasta [records](https://github.com/mp-rj/Impacta/records) é possível encontrar o registro consolidado com as informações mais recentes das contratações, enquanto a pasta [release-packages](https://github.com/mp-rj/Impacta/release-packages) contém todo o histórico de atualizações relativo a esses processos. Estão disponíveis nessas pastas informações relativas aos seguintes processos:
+Neste repositório, você vai encontrar todo o registro de contratações do programa, desde a contratação da aceleradora que irá gerenciar o programa. Todos os arquivos estão em formato JSON e são compatíveis com o [Open Contracting Data Standard (OCDS)](https://standard.open-contracting.org/latest/en/) versão 1.1. Na pasta [records](https://github.com/mp-rj/Impacta/blob/master/records) é possível encontrar o registro consolidado com as informações mais recentes das contratações, enquanto a pasta [release-packages](https://github.com/mp-rj/Impacta/blob/master/release-packages) contém todo o histórico de atualizações relativo a esses processos. Estão disponíveis nessas pastas informações relativas aos seguintes processos:
 - **ocds-e5r943-2020000234749**: Processo de contratação de Aceleradora para gerenciar o programa de inovação aberta do MPRJ (Impacta).
 
 

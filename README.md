@@ -1,7 +1,7 @@
 # Impacta
 **Open innovation for solving public sector challenges**
 
-*Para Português, clique [aqui](https://github.com/mp-rj/Impacta/LEIAME.md).*
+*Para Português, clique [aqui](https://github.com/mp-rj/Impacta/blob/master/LEIAME.md).*
 
 **Nobody innovates alone**. There is enormous potential for solving complex government challenges when the path to collective intelligence is paved. This is the promise of open innovation, a process that subverts the traditional logic of many government decisions and purchases. Instead of specifying the desired solution, the public agency defines the challenge and the expected result, guaranteeing society - Academia, companies, start-ups etc. - the opportunity to co-create solutions. When it comes to digital solutions and new technologies, the potential for open innovation is even greater.
 
@@ -10,7 +10,7 @@
 ## What do I find in this repository?
 The innovative approach in this program begins in its initial steps. We are building the first version and will conduct MPRJ's inaugural open innovation cycle in a collaborative and 100% transparent manner. We seek to reach the maximum level of compliance with **[Open Contracting Partnership (OCP)](https://www.open-contracting.org/)** data standards  - something [unprecedented](https://web.archive.org/web/20200404154540/https://www.open-contracting.org/worldwide/) in Brazil.
 
-In this repository, you will find the entire record of hiring the program, since the hiring of the accelerator that will manage the program. All files are in JSON format and are compatible with the [Open Contracting Data Standard (OCDS)](https://standard.open-contracting.org/latest/en/) version 1.1. In the [records](https://github.com/mp-rj/Impacta/records) folder it is possible to find the consolidated record with the latest information on contracts, while the [release-packages](https://github.com/mp-rj/Impacta/release-packages) folder contains all the update history related to these processes. Information regarding the following processes is available in these folders:
+In this repository, you will find the entire record of hiring the program, since the hiring of the accelerator that will manage the program. All files are in JSON format and are compatible with the [Open Contracting Data Standard (OCDS)](https://standard.open-contracting.org/latest/en/) version 1.1. In the [records](https://github.com/mp-rj/Impacta/blob/master/records) folder it is possible to find the consolidated record with the latest information on contracts, while the [release-packages](https://github.com/mp-rj/Impacta/blob/master/release-packages) folder contains all the update history related to these processes. Information regarding the following processes is available in these folders:
 - **ocds-e5r943-2020000234749**: Accelerator contracting process to manage the MPRJ's open innovation program (Impacta).
 
 
