@@ -51,5 +51,5 @@ Alguns pontos que o usuário deve levar em conta ao consumir os dados:
 Os próximos passos para melhorar a transparência do programa e a sua compatibilidade com os padrões e melhores práticas em dados abertos incluem:
 - Resolver a questão da quantificação dos serviços contratados ([ver acima](#adaptações-às-listas-controladas-e-abordagem-de-internacionalização));
 - Registrar de maneira estruturada os comentários recebidos durante o processo de consulta pública da [Minuta do Plano de Contratação](https://drive.google.com/file/d/1qQPijADRnhI37EY16_HM0QksOasKaMI2);
-- Manter o repositório atualizado com as últimas novidades do processo de contratação da Aceleradora para o programa - em especial, com os dados definidos em um futuro Termo de Referência;
+- Manter o repositório atualizado com as últimas novidades do processo de contratação da Aceleradora para o programa;
 - Estimular o uso dos padrões da OCDS entre outros órgãos da Administração Pública, bem como o consumo dos dados publicados pela sociedade civil e pela iniciativa privada. 

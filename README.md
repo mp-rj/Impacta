@@ -51,5 +51,5 @@ Some points the user might want to consider when consuming the data are:
 Next steps to improve the transparency of the program and the compatibility with open data standards and best practices include:
 - Solving the matter on quantifying services ([see above](#adaptions-to-the-standard-codelists-and-internationalization-approach));
 - Presenting structured data with all the comments receiver during the period for public consultation on the [Contracting Plan Draft](https://drive.google.com/file/d/1qQPijADRnhI37EY16_HM0QksOasKaMI2);
-- Keeping the repository updated with the latest news on the innovation Accelerator contracting - especially with data from a future Term of Reference;
+- Keeping the repository updated with the latest news on the innovation Accelerator contracting;
 - Stimulating the adoption of open contracting standards among other public sector bodies in Brazil, as well as their use by the civil society and by private firms. 
