@@ -76,7 +76,7 @@
                         "uri": "https://opencorporates.com/companies/br/19273769000101"
                     },
                     "address": {
-                        "streetAdress": "Via Binário do Porto, 299",
+                        "streetAddress": "Via Binário do Porto, 299",
                         "locality": "Rio de Janeiro",
                         "region": "RJ",
                         "postalCode": "20220325",
@@ -96,7 +96,7 @@
                     "name": "Fundação Getúlio Vargas",
                     "id": "BR-CNPJ-33641663-0001-44",
                     "identifier": {
-                        "schema": "BR-CNPJ",
+                        "scheme": "BR-CNPJ",
                         "id": "33641663-0001-44",
                         "legalName": "Fundacao Getulio Vargas",
                         "uri": "http://compras.dados.gov.br/fornecedores/doc/fornecedor_pj/33641663000144"
@@ -123,17 +123,17 @@
                     "name": "Porto Digital",
                     "id": "BR-CNPJ-04203075-0001-20",
                     "identifier": {
-                        "schema": "BR-CNPJ",
+                        "scheme": "BR-CNPJ",
                         "id": "04203075-0001-20",
                         "legalName": "Nucleo de Gestao do Porto Digital",
                         "uri": "https://opencorporates.com/companies/br/04203075000120"
                     },
                     "address": {
-                        "streetName": "Cais do Apolo, 222",
+                        "streetAddress": "Cais do Apolo, 222",
                         "locality": "Recife",
                         "region": "PE",
                         "postalCode": "50030220",
-                        "country": "Brasil",
+                        "countryName": "Brasil",
                         "country_en": "Brazil"
                     },
                     "contactPoint": {
@@ -150,17 +150,17 @@
                     "name": "Sai do Papel",
                     "id": "BR-CNPJ-27917191-0001-07",
                     "identifier": {
-                        "schema": "BR-CNPJ",
+                        "scheme": "BR-CNPJ",
                         "id": "27917191-0001-07",
                         "legalName": "SDP Participacoes Societarias EIRELI",
                         "uri": "https://opencorporates.com/companies/br/27917191000107"
                     },
                     "address": {
-                        "streetAdress": "Avenida das Américas, 3500",
+                        "streetAddress": "Avenida das Américas, 3500",
                         "locality": "Rio de Janeiro",
                         "region": "RJ",
                         "postalCode": "22640102",
-                        "country": "Brasil",
+                        "countryName": "Brasil",
                         "country_en": "Brazil"
                     },
                     "contactPoint": {
@@ -177,17 +177,17 @@
                     "name": "Semente Negócios",
                     "id": "BR-CNPJ-13417973-0001-​72",
                     "identifier": {
-                        "schema": "BR-CNPJ",
+                        "scheme": "BR-CNPJ",
                         "id": "13417973-0001-​72",
                         "legalName": "Semente Negocios Sustentaveis LTDA",
                         "uri": "https://opencorporates.com/companies/br/13417973000172"
                     },
                     "address": {
-                        "streetAdress": "Av. Cristóvão Colombo, 100",
+                        "streetAddress": "Av. Cristóvão Colombo, 100",
                         "locality": "Porto Alegre",
                         "region": "RS",
                         "postalCode": "90560​000",
-                        "country": "Brasil",
+                        "countryName": "Brasil",
                         "country_en": "Brazil"
                     },
                     "contactPoint": {
@@ -204,17 +204,17 @@
                     "name": "KOAN - Finanças Sustentáveis LTDA",
                     "id": "BR-CNPJ-09212050-0001-07",
                     "identifier": {
-                        "schema": "BR-CNPJ",
+                        "scheme": "BR-CNPJ",
                         "id": "09212050-0001-07",
                         "legalName": "KOAN - Financas Sustentaveis LTDA",
                         "uri": "https://opencorporates.com/companies/br/09212050000107"
                     },
                     "address": {
-                        "streetAdress": "R. Voluntários da Pátria, 301",
+                        "streetAddress": "R. Voluntários da Pátria, 301",
                         "locality": "Rio de Janeiro",
                         "region": "RJ",
                         "postalCode": "22270003",
-                        "country": "Brasil",
+                        "countryName": "Brasil",
                         "country_en": "Brazil"
                     },
                     "contactPoint": {
