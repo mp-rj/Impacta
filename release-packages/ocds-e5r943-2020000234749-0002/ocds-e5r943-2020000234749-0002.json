@@ -17,7 +17,7 @@
     "publicationPolicy_en": "https://github.com/mp-rj/Impacta#publication-policy",
     "releases": [
         {
-            "ocid": "ocds-e5r943-2020-000234749-0002", 
+            "ocid": "ocds-e5r943-2020-000234749", 
             "id": "ocds-e5r943-2020-000234749-0002-01-planning",
             "title": "Impacta",
             "description": "Programa de inovação aberta do Ministério Público do Estado do Rio de Janeiro",
@@ -338,7 +338,7 @@
             }
         },
         {
-            "ocid": "ocds-e5r943-2020-000234749-0002", 
+            "ocid": "ocds-e5r943-2020-000234749", 
             "id": "ocds-e5r943-2020-000234749-0002-02-tender",
             "title": "Impacta",
             "description": "Programa de inovação aberta do Ministério Público do Estado do Rio de Janeiro",
