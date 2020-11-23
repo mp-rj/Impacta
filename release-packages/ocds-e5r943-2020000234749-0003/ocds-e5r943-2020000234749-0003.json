@@ -1,0 +1,725 @@
+{
+    "uri": "https://raw.githubusercontent.com/mp-rj/Impacta/master/release-packages/ocds-e5r943-2020000234749-0003/ocds-e5r943-2020000234749-0003.json",
+    "version": "1.1",
+    "extensions": [
+        "https://raw.githubusercontent.com/open-contracting-extensions/ocds_process_title_extension/master/extension.json",
+        "https://raw.githubusercontent.com/open-contracting-extensions/ocds_legalBasis_extension/master/extension.json"
+    ],
+    "publishedDate": "2020-11-23T15:12:00-03:00", 
+    "publisher": {
+        "name": "Ministério Público do Estado do Rio de Janeiro",
+        "name_en": "State Public Prosecutor's Office of Rio de Janeiro",
+        "scheme": "ocds",
+        "uid": "e5r943",
+        "uri": "urn:ocds:e5r943"
+    },
+    "license": "https://opendatacommons.org/licenses/by/1.0/index.html",
+    "publicationPolicy": "https://github.com/mp-rj/Impacta/blob/master/LEIAME.md#pol%C3%ADtica-de-publica%C3%A7%C3%A3o",
+    "publicationPolicy_en": "https://github.com/mp-rj/Impacta#publication-policy",
+    "releases": [
+        {
+            "ocid": "ocds-e5r943-2020-000234749", 
+            "id": "ocds-e5r943-2020-000234749-0003-01-planning",
+            "title": "Impacta",
+            "description": "Programa de inovação aberta do Ministério Público do Estado do Rio de Janeiro",
+            "description_en": "State Public Prosecutor's Office of Rio de Janeiro open innovation program",
+            "language": "pt",
+            "date": "2020-11-23T15:12:00-03:00",
+            "tag": [
+                "planningUpdate"
+            ],
+            "initiationType": "tender",
+            "parties": [
+                {
+                    "name": "Ministério Público do Estado do Rio de Janeiro",
+                    "name_en": "State Public Prosecutor's Office of Rio de Janeiro",
+                    "id": "ocds-e5r943",
+                    "identifier": {
+                            "scheme": "ocds",
+                            "id": "e5r943",
+                            "legalName": "Ministério Público do Estado do Rio de Janeiro",
+                            "uri": "urn:ocds:e5r943"
+                    },
+                    "additionalIdentifiers": [
+                        {
+                            "scheme": "BR-CNPJ",
+                            "id": "28305936-0001-40",
+                            "legalName": "Ministério Público do Estado do Rio de Janeiro",
+                            "uri": "urn:br:cnpj:28.305.936/0001-40"
+                        }
+                    ],
+                    "address": {
+                        "streetAddress": "Rua Marechal Câmara, 370",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "20020080",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Laboratório de Inovação do Ministério Público do Estado do Rio de Janeiro (Inova_MPRJ)",
+                        "name_en": "State Public Prosecutor's Office of Rio de Janeiro Innovation Lab (Inova_MPRJ)",
+                        "email": "inova@mprj.mp.br",
+                        "telephone": "+5521995034379",
+                        "url": "https://www.mprj.mp.br/inova/impacta"
+                    },
+                    "roles": [
+                        "buyer", "procuringEntity"
+                    ]
+                },
+                {
+                    "name": "Fabrica de Startups Brasil",
+                    "id": "BR-CNPJ-19273769-0001-01",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "19273769-0001-01",
+                        "legalName": "Fabrica de Startups Brasil Consultoria Empresarial Ltda",
+                        "uri": "https://opencorporates.com/companies/br/19273769000101"
+                    },
+                    "address": {
+                        "streetAddress": "Via Binário do Porto, 299",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "20220325",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Pedro Henrique El-Bainy",
+                        "email": "talk@fabricadestartups.com.br",
+                        "url": "https://www.fabricadestartups.com.br"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Fundação Getúlio Vargas",
+                    "id": "BR-CNPJ-33641663-0001-44",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "33641663-0001-44",
+                        "legalName": "Fundacao Getulio Vargas",
+                        "uri": "http://compras.dados.gov.br/fornecedores/doc/fornecedor_pj/33641663000144"
+                    },
+                    "address": {
+                        "streetAddress": "Praia de Botafogo, 190",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "22250900",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Centro de Tecnologia e Sociedade",
+                        "email": "ivar.hartmann@fgv.br",
+                        "telephone": "552137994608",
+                        "url": "https://direitorio.fgv.br/cts"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Porto Digital",
+                    "id": "BR-CNPJ-04203075-0001-20",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "04203075-0001-20",
+                        "legalName": "Nucleo de Gestao do Porto Digital",
+                        "uri": "https://opencorporates.com/companies/br/04203075000120"
+                    },
+                    "address": {
+                        "streetAddress": "Cais do Apolo, 222",
+                        "locality": "Recife",
+                        "region": "PE",
+                        "postalCode": "50030220",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Núcleo de Gestão do Porto Digital",
+                        "email": "portodigital@portodigital.org",
+                        "telephone": "558134198014",
+                        "url": "https://www.portodigital.org"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Sai do Papel",
+                    "id": "BR-CNPJ-27917191-0001-07",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "27917191-0001-07",
+                        "legalName": "SDP Participacoes Societarias EIRELI",
+                        "uri": "https://opencorporates.com/companies/br/27917191000107"
+                    },
+                    "address": {
+                        "streetAddress": "Avenida das Américas, 3500",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "22640102",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Carlos Rebelo de Araujo Junior",
+                        "email": "contato@saidopapel.com.br",
+                        "telephone": "5521965281234",
+                        "url": "https://www.saidopapel.com.br/"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Semente Negócios",
+                    "id": "BR-CNPJ-13417973-0001-​72",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "13417973-0001-​72",
+                        "legalName": "Semente Negocios Sustentaveis LTDA",
+                        "uri": "https://opencorporates.com/companies/br/13417973000172"
+                    },
+                    "address": {
+                        "streetAddress": "Av. Cristóvão Colombo, 100",
+                        "locality": "Porto Alegre",
+                        "region": "RS",
+                        "postalCode": "90560​000",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Marcio Luis Milton Jappe",
+                        "email": "contato@sementenegocios.com.br",
+                        "telephone": "5511964144677",
+                        "url": "https://www.sementenegocios.com.br/"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "KOAN - Finanças Sustentáveis LTDA",
+                    "id": "BR-CNPJ-09212050-0001-07",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "09212050-0001-07",
+                        "legalName": "KOAN - Financas Sustentaveis LTDA",
+                        "uri": "https://opencorporates.com/companies/br/09212050000107"
+                    },
+                    "address": {
+                        "streetAddress": "R. Voluntários da Pátria, 301",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "22270003",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Gustavo Paiva Pimentel",
+                        "email": "gpimentel@sitawi.net",
+                        "telephone": "552122471136"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                }
+            ],
+            "buyer": {
+                "name": "Ministério Público do Estado do Rio de Janeiro",
+                "id": "ocds-e5r943"
+            },
+            "planning": {
+                "rationale": "Operacionalizar o programa Impacta, que tem por objetivo explorar a inteligência coletiva, fomentar e fortalecer uma rede nacional de inovação, e buscar parcerias para a construção e implementação de soluções custo-efetivas para desafios públicos.",
+                "rationale_en": "Operationalize the Impacta program, which aims to explore the collective intelligence, foster and strengthen a national innovation network, and seek partnerships for the construction and implementation of cost-effective solutions to public challenges.",
+                "documents": [
+                    {
+                        "id": "DC0001",
+                        "documentType": "procurementPlan",
+                        "title": "Minuta do Plano de Contratação",
+                        "title_en": "Contracting Plan Draft",
+                        "description": "Plano de contratação de pessoa jurídica (aceleradora) para gerenciar o programa de inovação aberta do MPRJ ('Impacta'). O documento organiza e descreve as principais diretrizes que irão compor o futuro termo de referência para licitação.",
+                        "description_en": "Plan for contracting a legal entity (accelerator) to manage MPRJ open innovation program ('Impacta'). The document organizes and describes the main guidelines that will compose the future reference term for tender.",
+                        "url": "https://drive.google.com/file/d/1qQPijADRnhI37EY16_HM0QksOasKaMI2",
+                        "datePublished": "2020-03-02T19:10:00-03:00",
+                        "dateModified": "2020-03-02T15:35:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    },
+                    {
+                        "id": "DC0002",
+                        "documentType": "plannedProcurementNotice",
+                        "title": "Hotsite do projeto",
+                        "title_en": "Project hotsite",
+                        "description": "Site contendo a explicação do projeto e aviso da consulta pública para o plano de contratação.",
+                        "description_en": "Website containing the explanation of the project and notice of public consultation for the contracting plan.",
+                        "url": "http://www.mprj.mp.br/inova/impacta",
+                        "datePublished": "2020-02-04T17:50:22-03:00",
+                        "dateModified": "2020-07-21T09:21:33-03:00",
+                        "format": "text/html",
+                        "language": "pt"
+                    },
+                    {
+                        "id": "DC0003",
+                        "documentType": "clarifications",
+                        "title": "Resumo de reunião aberta",
+                        "title_en": "Open meeting summary",
+                        "description": "Resumo da reunião aberta com interessados, realizada como videoconferência no dia 24/03/2020",
+                        "description_en": "Summary of the open meeting with interested parties, held as a videoconference on 20/03/2020",
+                        "url": "https://mprj.sharepoint.com/:b:/s/Inova/Ea4b-eS-8ZVLuAc9EptCIv4BqyZJsT7WbuNd6n_S12aOxg?e=FFwixJ",
+                        "datePublished": "2020-06-18T17:08:00-03:00",
+                        "dateModified": "2020-09-10T14:58:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    },
+                    {
+                        "id": "DC0004",
+                        "documentType": "clarifications",
+                        "title": "Devolutiva dos comentários públicos",
+                        "title_en": "Feedback from public comments",
+                        "description": "Respostas do Inova sobre os comentários recebidos em consulta pública, prestando contas do que foi ou não incorporado ao Plano de Contratação e porquê.",
+                        "description_en": "Inova's responses to comments received in public consultation, accounting of what was or was not incorporated into the Contracting Plan and why.",
+                        "url": "https://mprj.sharepoint.com/:b:/s/Inova/EfC17AGSoMVCpSK2kYX3DVIBo_PKu5c4W-PtkYf6zgYdPQ?e=TJ9FXC",
+                        "datePublished": "2020-06-18T17:02:00-03:00",
+                        "dateModified": "2020-09-10T15:00:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    },
+                    {
+                        "id": "DC0005",
+                        "documentType": "procurementPlan",
+                        "title": "Plano de Contratação",
+                        "title_en": "Procurement Plan",
+                        "description": "Plano de Contratação, após mudanças sugeridas em consulta pública",
+                        "description_en": "Procurement Plan, with changes after public consultation.",
+                        "url": "https://mprj.sharepoint.com/:b:/s/Inova/EbedcNQFC_tBoNyH3DAJHpcBXWh7LS6l-tXF4qygWaMONA?e=bFEYj0",
+                        "datePublished": "2020-05-26T11:46:00-03:00",
+                        "dateModified": "2020-09-10T15:00:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    }
+                ],
+                "milestones": [
+                    {
+                        "id": "MS0001",
+                        "title": "Lançamento do site e da Minuta do Plano de Contratação",
+                        "title_en": "Release of the Contracting Plan Draft",
+                        "type": "preProcurement",
+                        "description": "Lançamento e divulgação do site e da Minuta do Plano de Contratação para comentários públicos",
+                        "description_en": "Release and dissemination of the website and Contracting Plan Draft for public comment",
+                        "dueDate": "2020-02-28T19:30:00-03:00",
+                        "dateMet": "2020-03-03T15:20:00-03:00",
+                        "status": "met"
+                    },
+                    {
+                        "id": "MS0002",
+                        "title": "Comentários públicos da Minuta do Plano de Contratação",
+                        "title_en": "Public comments on the Contracting Plan Draft",
+                        "type": "preProcurement",
+                        "description": "Término do período para comentários públicos da Minuta do Plano de Contratação",
+                        "description_en": "End of the period for public comments on the Contracting Plan Draft",
+                        "dueDate": "2020-03-20T23:59:59-03:00",
+                        "dateMet": "2020-03-20T23:59:59-03:00",
+                        "status": "met"
+                    },
+                    {
+                        "id": "MS0003",
+                        "title": "Videoconferência aberta sobre o Plano de Contratação",
+                        "title_en": "Open video conference on the Contracting Plan",
+                        "type": "preProcurement",
+                        "description": "Videoconferência com possíveis interessados para esclarecer dúvidas sobre a Minuta do Plano de Contratação",
+                        "description_en": "Videoconference with interested parties to clarify doubts about the Contracting Plan Draft",
+                        "dueDate": "2020-03-24T15:00:00-03:00",
+                        "status": "met"
+                    }
+                ]
+            }
+        },
+        {
+            "ocid": "ocds-e5r943-2020-000234749", 
+            "id": "ocds-e5r943-2020-000234749-0003-02-tender",
+            "title": "Impacta",
+            "description": "Programa de inovação aberta do Ministério Público do Estado do Rio de Janeiro",
+            "description_en": "State Public Prosecutor's Office of Rio de Janeiro open innovation program",
+            "language": "pt",
+            "date": "2020-11-23T15:12:00-03:00",
+            "tag": [
+                "planningUpdate"
+            ],
+            "initiationType": "tender",
+            "parties": [
+                {
+                    "name": "Ministério Público do Estado do Rio de Janeiro",
+                    "name_en": "State Public Prosecutor's Office of Rio de Janeiro",
+                    "id": "ocds-e5r943",
+                    "identifier": {
+                            "scheme": "ocds",
+                            "id": "e5r943",
+                            "legalName": "Ministério Público do Estado do Rio de Janeiro",
+                            "uri": "urn:ocds:e5r943"
+                    },
+                    "additionalIdentifiers": [
+                        {
+                            "scheme": "BR-CNPJ",
+                            "id": "28305936-0001-40",
+                            "legalName": "Ministério Público do Estado do Rio de Janeiro",
+                            "uri": "urn:br:cnpj:28.305.936/0001-40"
+                        }
+                    ],
+                    "address": {
+                        "streetAddress": "Rua Marechal Câmara, 370",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "20020080",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Laboratório de Inovação do Ministério Público do Estado do Rio de Janeiro (Inova_MPRJ)",
+                        "name_en": "State Public Prosecutor's Office of Rio de Janeiro Innovation Lab (Inova_MPRJ)",
+                        "email": "inova@mprj.mp.br",
+                        "telephone": "+5521995034379",
+                        "url": "https://www.mprj.mp.br/inova/impacta"
+                    },
+                    "roles": [
+                        "buyer", "procuringEntity"
+                    ]
+                },
+                {
+                    "name": "Fabrica de Startups Brasil",
+                    "id": "BR-CNPJ-19273769-0001-01",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "19273769-0001-01",
+                        "legalName": "Fabrica de Startups Brasil Consultoria Empresarial Ltda",
+                        "uri": "https://opencorporates.com/companies/br/19273769000101"
+                    },
+                    "address": {
+                        "streetAddress": "Via Binário do Porto, 299",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "20220325",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Pedro Henrique El-Bainy",
+                        "email": "talk@fabricadestartups.com.br",
+                        "url": "https://www.fabricadestartups.com.br"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Fundação Getúlio Vargas",
+                    "id": "BR-CNPJ-33641663-0001-44",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "33641663-0001-44",
+                        "legalName": "Fundacao Getulio Vargas",
+                        "uri": "http://compras.dados.gov.br/fornecedores/doc/fornecedor_pj/33641663000144"
+                    },
+                    "address": {
+                        "streetAddress": "Praia de Botafogo, 190",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "22250900",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Centro de Tecnologia e Sociedade",
+                        "email": "ivar.hartmann@fgv.br",
+                        "telephone": "552137994608",
+                        "url": "https://direitorio.fgv.br/cts"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Porto Digital",
+                    "id": "BR-CNPJ-04203075-0001-20",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "04203075-0001-20",
+                        "legalName": "Nucleo de Gestao do Porto Digital",
+                        "uri": "https://opencorporates.com/companies/br/04203075000120"
+                    },
+                    "address": {
+                        "streetAddress": "Cais do Apolo, 222",
+                        "locality": "Recife",
+                        "region": "PE",
+                        "postalCode": "50030220",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Núcleo de Gestão do Porto Digital",
+                        "email": "portodigital@portodigital.org",
+                        "telephone": "558134198014",
+                        "url": "https://www.portodigital.org"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Sai do Papel",
+                    "id": "BR-CNPJ-27917191-0001-07",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "27917191-0001-07",
+                        "legalName": "SDP Participacoes Societarias EIRELI",
+                        "uri": "https://opencorporates.com/companies/br/27917191000107"
+                    },
+                    "address": {
+                        "streetAddress": "Avenida das Américas, 3500",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "22640102",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Carlos Rebelo de Araujo Junior",
+                        "email": "contato@saidopapel.com.br",
+                        "telephone": "5521965281234",
+                        "url": "https://www.saidopapel.com.br/"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "Semente Negócios",
+                    "id": "BR-CNPJ-13417973-0001-​72",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "13417973-0001-​72",
+                        "legalName": "Semente Negocios Sustentaveis LTDA",
+                        "uri": "https://opencorporates.com/companies/br/13417973000172"
+                    },
+                    "address": {
+                        "streetAddress": "Av. Cristóvão Colombo, 100",
+                        "locality": "Porto Alegre",
+                        "region": "RS",
+                        "postalCode": "90560​000",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Marcio Luis Milton Jappe",
+                        "email": "contato@sementenegocios.com.br",
+                        "telephone": "5511964144677",
+                        "url": "https://www.sementenegocios.com.br/"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                },
+                {
+                    "name": "KOAN - Finanças Sustentáveis LTDA",
+                    "id": "BR-CNPJ-09212050-0001-07",
+                    "identifier": {
+                        "scheme": "BR-CNPJ",
+                        "id": "09212050-0001-07",
+                        "legalName": "KOAN - Financas Sustentaveis LTDA",
+                        "uri": "https://opencorporates.com/companies/br/09212050000107"
+                    },
+                    "address": {
+                        "streetAddress": "R. Voluntários da Pátria, 301",
+                        "locality": "Rio de Janeiro",
+                        "region": "RJ",
+                        "postalCode": "22270003",
+                        "countryName": "Brasil",
+                        "countryName_en": "Brazil"
+                    },
+                    "contactPoint": {
+                        "name": "Gustavo Paiva Pimentel",
+                        "email": "gpimentel@sitawi.net",
+                        "telephone": "552122471136"
+                    },
+                    "roles": [
+                        "interestedParty"
+                    ]
+                }
+            ],
+            "buyer": {
+                "name": "Ministério Público do Estado do Rio de Janeiro",
+                "id": "ocds-e5r943"
+            },
+            "tender": {
+                "id": "TD0001", 
+                "title": "Contratação de serviços de aceleração para ciclo de inovação aberta",
+                "title_en": "Contracting of acceleration services for open innovation cycle",
+                "description": "Contratação de pessoa jurídica ('aceleradora') para prestação de serviço de gerenciamento do primeiro ciclo do programa de inovação aberta do Ministério Público do Estado do Rio de Janeiro",
+                "description_en": "Contracting of a legal entity ('accelerator') to provide management services for the first cycle of the open innovation program of the State Public Prosecutor's Office of Rio de Janeiro",
+                "status": "planning",
+                "procuringEntity": {
+                        "name": "Ministério Público do Estado do Rio de Janeiro",
+                        "id": "ocds-e5r943"
+                },
+                "items": [
+                    {
+                        "id": "IT0031",
+                        "description": "Preparação e definição do desafio",
+                        "description_en": "Challenge definition and setup",
+                        "classification": {
+                            "scheme": "CPC",
+                            "id": "83111",
+                            "description_en": "Strategic management consulting services",
+                            "uri": "urn:cpc:83111"
+                        }
+                    },
+                    {
+                        "id": "IT032",
+                        "description": "Seleção dos participantes",
+                        "description_en": "Selection of participants",
+                        "classification": {
+                            "scheme": "CPC",
+                            "id": "85111",
+                            "description_en": "Executive/retained search services",
+                            "uri": "urn:cpc:85111"
+                        }
+                    },
+                    {
+                        "id": "IT033",
+                        "description": "Incubação",
+                        "description_en": "Business incubation",
+                        "classification": {
+                            "scheme": "CPC",
+                            "id": "83129",
+                            "description_en": "Other business consulting services",
+                            "uri": "urn:cpc:83129"
+                        }
+                    },
+                    {
+                        "id": "IT034",
+                        "description": "Aceleração",
+                        "description_en": "Business acceleration",
+                        "classification": {
+                            "scheme": "CPC",
+                            "id": "83129",
+                            "description_en": "Other business consulting services",
+                            "uri": "urn:cpc:83129"
+                        }
+                    },
+                    {
+                        "id": "IT035",
+                        "description": "Concurso",
+                        "description_en": "Contest",
+                        "classification": {
+                            "scheme": "CPC",
+                            "id": "83129",
+                            "description_en": "Other business consulting services",
+                            "uri": "urn:cpc:83129"
+                        }
+                    },
+                    {
+                        "id": "IT036",
+                        "description": "Apoio na negociação e no desenvolvimento das soluções contratadas",
+                        "description_en": "Active search for startups with potential to solve the challenges, with already existing products and services similar to the proposed solutions to the program challenges",
+                        "classification": {
+                            "scheme": "CPC",
+                            "id": "83129",
+                            "description_en": "Other business consulting services",
+                            "uri": "urn:cpc:83129"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 845588.33,
+                    "currency": "BRL"
+                },
+                "minValue": {
+                    "amount": 560000,
+                    "currency": "BRL"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Licitação por concorrência de técnica e preço, pelo Regime Diferenciado de Contratações",
+                "procurementMethodDetails_en": "Price and quality bidding, based on the Differentiated Procurement Regime",
+                "procurementMethodRationale": "Medida Provisória n. 961, de 06 de maio de 2020; e arts. 18, inciso II, e 20, caput, e § 1º, inciso II, da Lei n. 12.462",
+                "legalBasis": {
+                    "id": "urn:lex:br:federal:lei:2011-08-04;12462",
+                    "scheme": "LEXML"
+                },
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "consultingServices", "services"
+                ],
+                "awardCriteria": "ratedCriteria",
+                "awardCriteriaDetails": "Detalhes sobre a forma de julgamento das propostas e os pesos dos critérios estão disponíveis nas seções 11 e 12 do Termo de Referência v2.2",
+                "awardCriteriaDetails_en": "Details on the judgment of bids and the relative weights of the quality factors are available in the Reference Instrument v2.2, sections 11 and 12",
+                "submissionMethod": [
+                    "electronicAuction"
+                ],
+                "submissionMethodDetails": "A contratada será selecionada em processo licitatório eletrônico realizado pelo MPRJ, nos termos do art. 13, parágrafo único, da Lei n. 12.462, de 04 de agosto de 2011",
+                "submissionMethodDetails_en": "An electronic bidding process will be carried out by MPRJ, pursuant to Article 13, sole paragraph, of Law no. 12462, of August 4, 2011",
+                "eligibilityCriteria": "Todas as licitantes deverão conseguir demonstrar capacidade de atender aos requisitos de local, método e equipe descritos na seção 10 do Termo de Referência ('Etapa de habilitação')",
+                "eligibilityCriteria_en": "All tenderers must be able to demonstrate their ability to meet the location, method and team requirements described on section 10 of the Reference Instrument ('Qualifying Phase')",
+                "contractPeriod": {
+                    "durationInDays": 210
+                },
+                "documents": [
+                    {
+                        "id": "DC0006",
+                        "documentType": "technicalSpecifications",
+                        "title": "Termo de Referência v1.0",
+                        "title_en": "Reference Instrument v1.0",
+                        "description": "Primeira versão do Termo de Referência elaborado pelo Inova_MPRJ",
+                        "description_en": "First version of the Instrument Reference elaborated by Inova_MPRJ",
+                        "url": "https://mprj.sharepoint.com/:b:/s/Inova/EQx7XE8qanJFq-9uQvepvDIBbLhDS-h-HQOndkl0uES7QQ?e=sWVjD2",
+                        "datePublished": "2020-06-24T18:27:00-03:00",
+                        "dateModified": "2020-07-16T17:27:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    },
+                    {
+                        "id": "DC0007",
+                        "documentType": "technicalSpecifications",
+                        "title": "Termo de Referência v2.2",
+                        "title_en": "Reference Instrument v2.2",
+                        "description": "Termo de Referência alterado pelo Inova_MPRJ após comentários da Secretaria-Geral do Ministério Público",
+                        "description_en": "Instrument Reference altered by Inova_MPRJ after comments from the General Secretariat of the Public Prosecutor's Office",
+                        "url": "https://mprj.sharepoint.com/:b:/s/Inova/EVI3tCDtzqxDpAoWtsGmf8gB9rp9O_Tc_QOITzTbQIA1kQ?e=pEqTgX",
+                        "datePublished": "2020-08-25T15:44:00-03:00",
+                        "dateModified": "2020-08-28T18:55:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    },
+                    {
+                        "id": "DC0008",
+                        "documentType": "technicalSpecifications",
+                        "title": "Cotações de mercado",
+                        "title_en": "Price quotations",
+                        "description": "Pasta com as cotações enviadas pelas empresas interessadas",
+                        "description_en": "Folder containing price quotations by the interested parties",
+                        "url": "https://mprj.sharepoint.com/:f:/s/Inova/EoZtFHEI9-xHvTw-sdxMZRUBvlKTf1mTnwLeqfqK7ziK-A?e=WigWvX",
+                        "datePublished": "2020-07-20T12:48:00-03:00",
+                        "dateModified": "2020-07-20T12:48:00-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    },
+                    {
+                        "id": "DC0009",
+                        "documentType": "contractDraft",
+                        "title": "Minuta do Contrato",
+                        "title_en": "Contract Draft",
+                        "description": "Minuta do termo de contrato de prestação de serviços para execução e gerenciamento do primeiro ciclo de desafios do programa de inovação aberta do MPRJ, denominado Impacta.",
+                        "description_en": "Draft of the service provision contract for the execution and management of the first cycle of challenges of the MPRJ open innovation program - Impacta.",
+                        "url": "https://mprj.sharepoint.com/:b:/s/Inova/EdKtimJP6xFOjNzm_HO1GoQBhySckc6mDb2iOgWtBHwWNA?e=Yb5NbX",
+                        "datePublished": "2020-11-17T11:27:52-03:00",
+                        "dateModified": "2020-11-17T11:27:52-03:00",
+                        "format": "application/pdf",
+                        "language": "pt"
+                    }
+                ]
+            }
+        }
+    ]
+}
